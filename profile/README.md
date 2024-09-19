@@ -13,7 +13,7 @@
 <br>
 <br>
 
-# 🤝 Rules
+# 🤝 GitHub Rules
 ### All Rules are [here](./Rules.md).
 <br>
 <br>
@@ -25,7 +25,7 @@
 <br>
 
 
-# 🎖️ Stacks 
+# 🎖️ Stacks
 ### Front-End
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white">
 
