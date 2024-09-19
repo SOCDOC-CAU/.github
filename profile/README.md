@@ -2,7 +2,11 @@
 <br>
 
 ## 🐥 TEAM
-![Frame 36](https://github.com/SOCDOC-CAU/.github/assets/80440429/69fb11b3-a775-4802-805b-41118e5eb2ef)
+| [유용민](https://github.com/yymin1022) | [채승운](https://github.com/win-luck) | [박지우](https://github.com/pjw-redt) | [손유진](https://github.com/causyj) |
+| --- | --- | --- | --- |
+| <img src="image/profile_yymin1022.png" width="150" /> | <img src="image/profile_win-luck.png" width="150" /> | <img src="image/profile_pjw-redt.png" width="150" /> | <img src="image/profile_causyj.png" width="150" /> |
+| Leader / Flutter / Infra | Back-End | Flutter | Flutter |
+| 소프트웨어학부 "19 | 소프트웨어학부 "19 | 소프트웨어학부 "21 | 소프트웨어학부 "21 |
 <br>
 <br>
 
