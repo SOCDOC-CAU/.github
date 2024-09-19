@@ -10,7 +10,6 @@
 <br>
 <br>
 
----
 
 ## 💻 Architecture
 ![Component 108](https://github.com/SOCDOC-CAU/.github/assets/80440429/b043d064-7fd0-4d99-a576-24142381699b)
